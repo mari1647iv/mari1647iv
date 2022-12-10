@@ -21,9 +21,9 @@ I am Marina Ivanova, a Frontend Developer from Kazan, Russia.
 
 ### 📈  Some statistics:
 
-[<img src="https://github-readme-stats.vercel.app/api?username=mari1647iv&theme=vision-friendly-dark&hide=stars&count_private=true&show_icons=true"  title="GitHub Stats" alt="GitHub Stats" height="170"/>](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp;
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mari1647iv&exclude_repo=sentiment-analyzer&layout=compact&langs_count=6&theme=vision-friendly-dark"  title="Top Langs" alt="Top Langs" height="170"/>](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp;
-[<img src="http://github-readme-streak-stats.herokuapp.com?user=mari1647iv&theme=dark&background=000000" title="GitHub Streak" alt="GitHub Streak" />](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp;
+[<img src="https://github-readme-stats.vercel.app/api?username=mari1647iv&theme=vision-friendly-dark&hide=stars&count_private=true&show_icons=true"  title="GitHub Stats" alt="GitHub Stats" height="150"/>](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp;
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mari1647iv&exclude_repo=sentiment-analyzer&layout=compact&langs_count=6&theme=vision-friendly-dark"  title="Top Langs" alt="Top Langs" height="150"/>](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp;
+[<img src="http://github-readme-streak-stats.herokuapp.com?user=mari1647iv&theme=dark&background=000000" title="GitHub Streak" alt="GitHub Streak" width="437" />](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp;
 
 
 <hr />
