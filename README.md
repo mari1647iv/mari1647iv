@@ -7,8 +7,8 @@ I am Marina Ivanova, a Frontend Developer from Kazan, Russia.
 - 🔭 I’m currently working on [something cool](https://github.com/mari1647iv/personal-efficiency-helper)
 - 🌱 I’m currently learning NodeJS
 - :briefcase: I’m actively looking for job opportunities as a frontend developer
-- 🚴‍♀️ I like cool UX/UI, street photography, and my bicycle
 - ☕ I'm adept of Coffee-Driven Development
+- 🚴‍♀️ I like cool UX/UI, street photography, and my bicycle
 
 <hr />
 
@@ -36,7 +36,7 @@ I am Marina Ivanova, a Frontend Developer from Kazan, Russia.
   ### 📈  Some statistics:
   
   [<img src="https://github-readme-stats.vercel.app/api?username=mari1647iv&theme=react&hide=stars&count_private=true&show_icons=true&bg_color=151515&ring_color=00e7ff"  title="GitHub Stats" alt="GitHub Stats" height="150"/>](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp;
-  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mari1647iv&exclude_repo=sentiment-analyzer&layout=compact&langs_count=6&theme=react&bg_color=151515"  title="Top Langs" alt="Top Langs" height="150"/>](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp;
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mari1647iv&exclude_repo=sentiment-analyzer,devops&layout=compact&langs_count=6&theme=react&bg_color=151515"  title="Top Langs" alt="Top Langs" height="150"/>](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp;
   [<img src="http://github-readme-streak-stats.herokuapp.com?user=mari1647iv&theme=black-ice" title="GitHub Streak" alt="GitHub Streak" width="437" />](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp;
 
   ![Profile View Counter](https://komarev.com/ghpvc/?username=mari1647iv)
