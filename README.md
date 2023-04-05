@@ -4,9 +4,9 @@
 
 I am Marina Ivanova, a Frontend Developer from Kazan, Russia.
 
-- 🔭 I’m currently working on [something cool](https://github.com/mari1647iv/personal-efficiency-helper)
 - 🌱 I’m currently learning NodeJS and Jest
 - :briefcase: I’m actively looking for job opportunities as a frontend developer
+- 🔭 I’m currently working on [something cool](https://github.com/mari1647iv/personal-efficiency-helper)
 - ☕ I'm adept of Coffee-Driven Development
 - 🚴‍♀️ I like cool UX/UI, street photography, and my bicycle
 
@@ -22,7 +22,7 @@ I am Marina Ivanova, a Frontend Developer from Kazan, Russia.
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ima1647@outlook.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mari1647iv)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mari1647iv/)
+<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mari1647iv/) -->
 
 <hr />
 
