@@ -2,12 +2,13 @@
 
 ### 👩‍💻  About me:
 
-I am Marina Ivanova, a Frontend Developer from Kazan, Russia.
+I am Marina Ivanova, Frontend Developer from Kazan, Russia.
 
-- 🌱 I’m currently learning NodeJS and Jest
-- 🔭 I’m currently working on [something](https://github.com/mari1647iv/personal-efficiency-helper)
-- ☕ I'm adept of Coffee-Driven Development
-- 🚴‍♀️ My areas of interest are new frontend technologies and tricks, SE practices, cool UX/UI cases, street photography, and bicycle trips
+- 🌱 I’m currently learning Tailwind and NodeJS;
+- 🔭 At free time, I’m working on [something](https://github.com/mari1647iv/personal-efficiency-helper);
+- 🎓 I'm on my way to the Master's degree in Software Engineering;
+- ☕ Adept of Coffee-Driven Development;
+- 🚴‍♀️ My areas of interest are new frontend technologies and tricks, SE best practices, cool UX/UI cases, street photography, and bicycle trips.
 
 <hr />
 
