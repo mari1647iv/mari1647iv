@@ -4,7 +4,7 @@
 
 I am Marina Ivanova, Frontend Developer from Kazan, Russia.
 
-- 🌱 I’m currently learning Tailwind and NodeJS;
+- 🌱 I’m currently learning Next.js;
 - 🔭 At free time, I’m working on [something](https://github.com/mari1647iv/personal-efficiency-helper);
 - 🎓 I'm on my way to the Master's degree in Software Engineering;
 - ☕ Adept of Coffee-Driven Development;
